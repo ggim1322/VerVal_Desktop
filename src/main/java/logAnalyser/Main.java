@@ -1,4 +1,4 @@
-package loganalyser;
+package logAnalyser;
 
 /**
  * Created by Gazsa Gergo on 2/29/16.

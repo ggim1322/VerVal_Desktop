@@ -7,12 +7,13 @@ import java.util.Collection;
 
 import org.junit.runners.Parameterized;
 import org.junit.runners.Parameterized.Parameters;
+
+import logAnalyser.LogAnalyser;
+
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
 import org.junit.runner.RunWith;
-
-import loganalyser.LogAnalyser;
 
 /**
  * Created by Gazsa Gergo on 2/29/16

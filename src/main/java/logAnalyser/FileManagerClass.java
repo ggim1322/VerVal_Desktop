@@ -1,7 +1,7 @@
 /**
  * 
  */
-package loganalyser;
+package logAnalyser;
 
 /**
  * @author Gázsa Gergõ

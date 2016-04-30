@@ -1,7 +1,11 @@
 /**
  * 
  */
-package loganalyser;
+package fakeLogAnalyser;
+
+import logAnalyser.FileManager;
+import logAnalyser.FileManagerClass;
+import logAnalyser.LogAnalyser;
 
 /**
  * @author Gázsa Gergõ
